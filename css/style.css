@@ -456,7 +456,7 @@ main {
 .bg-text-bottom {
     width: 100%;
     color: white;
-    opacity: .7;
+    opacity: .5;
 }
 
 .bg-text-top span:nth-child(1) {
@@ -606,7 +606,7 @@ main {
     }
 
     .bg-text-bottom span:nth-child(1) {
-        bottom: -200%;
+        bottom: -100%;
         right: 10%;
         font-size: 4rem;
     }
